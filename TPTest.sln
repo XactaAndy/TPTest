@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TPTest", "TPTest\TPTest.csproj", "{F2C576F6-A715-4751-A5A0-A8D2616358FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPTestWeb", "TPTestWeb\TPTestWeb.csproj", "{DF7B24C4-7AFA-4AEE-9643-919127A9A4A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2C576F6-A715-4751-A5A0-A8D2616358FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C576F6-A715-4751-A5A0-A8D2616358FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C576F6-A715-4751-A5A0-A8D2616358FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C576F6-A715-4751-A5A0-A8D2616358FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7B24C4-7AFA-4AEE-9643-919127A9A4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7B24C4-7AFA-4AEE-9643-919127A9A4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7B24C4-7AFA-4AEE-9643-919127A9A4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7B24C4-7AFA-4AEE-9643-919127A9A4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B887C22-F87E-415F-A2BB-98A250BDA5E9}
+	EndGlobalSection
+EndGlobal
